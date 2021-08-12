@@ -1,2 +1,1 @@
-# OCR-using-python
-Optical Character Recognition using python of letter(A-J)
+Optical Character Recognition using python. In this we make confusion matrix of result and validate it. Here are some results.
